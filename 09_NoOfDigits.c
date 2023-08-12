@@ -16,5 +16,6 @@ int main()
     }
 
     printf("\n\tNumber: %d has %d Digits. ",num1, dig);
+    printf("Change");
     return 0;
 }
