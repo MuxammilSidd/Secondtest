@@ -15,6 +15,10 @@ int main()
         dig++;
     }
 
+    printf("\n\tNumber: %d has %d Digits. ",num1, dig);
+    printf("Change");
+    printf("Change22");
+    printf("Change333");
 
     return 0;
 }
